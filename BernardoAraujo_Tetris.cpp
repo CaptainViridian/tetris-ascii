@@ -1,4 +1,4 @@
-#include "biblaureano.h"
+#include "lib/biblaureano.h"
 
 void imprimePecaMatriz(short xPeca, short yPeca, short peca, short posicao, bool matriz[21][11], const bool PECAS[7][4][4][4]);
 void imprimePeca(short xPeca, short yPeca, short peca, short posicao, const bool matriz[7][4][4][4]);
